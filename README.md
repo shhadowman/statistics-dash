@@ -1,2 +1,2 @@
-# statsdash
+# statistics-dash
 very normal distribution
